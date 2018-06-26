@@ -25,9 +25,13 @@
   python3 setup.py
   python3 game.py
   ```
+## UI instruction
+  * Main window shows as below:
+  ![avatar](./img/main.png)
+  * Playing mode shows as below:
+  ![avatar](./img/play.png)  
 
-
-### Collaborate with @CandyZhang
+Collaborate with @CandyZhang
 
 
 
