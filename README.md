@@ -4,7 +4,7 @@
   * Python3.6
   * C++ 11
   * Pybind11
-  * mtkinter
+  * tkinter
   
 ## Run on Mac osx
 ----------
