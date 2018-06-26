@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Work/CLionProjects/AILab1/MCTS.cpp
+MCTS.h
+/Users/Work/CLionProjects/AILab1/MCTS.h
+
+/Users/Work/CLionProjects/AILab1/MCTS.h
+iostream
+-
+cstdint
+-
+algorithm
+-
+vector
+-
+map
+-
+tuple
+-
+cmath
+-
+ctime
+-
+cstdlib
+-
+
+/Users/Work/CLionProjects/AILab1/main.cpp
+iostream
+-
+MCTS.h
+/Users/Work/CLionProjects/AILab1/MCTS.h
+

@@ -1,0 +1,3 @@
+/Users/Work/CLionProjects/AILab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Work/CLionProjects/AILab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Work/CLionProjects/AILab1/cmake-build-debug/CMakeFiles/AILab1.dir
